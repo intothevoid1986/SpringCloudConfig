@@ -5,10 +5,9 @@ spring:
     image:
       location: classpath:banner.gif
 
-debug: false
+debug: true
 
 user:
   role:
     Developer
     User
-    Pippo
