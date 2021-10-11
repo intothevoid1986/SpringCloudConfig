@@ -4,7 +4,6 @@ spring:
   banner:
     image:
       location: classpath:banner.gif
-
 debug: true
 
 user:
