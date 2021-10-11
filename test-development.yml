@@ -7,6 +7,8 @@ spring:
 debug: true
 
 user:
+  tier:
+    My-Tier
   role:
     Developer
     User
