@@ -2,5 +2,5 @@
 
 user:
   role:
-    - Developer
-    - User
+    Developer
+    User
