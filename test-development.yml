@@ -3,7 +3,7 @@
 spring:
   banner:
     image:
-      location: https://springhow.com/wp-content/uploads/2021/02/banner.gif
+      location: classpath:banner.gif
 
 debug: false
 
