@@ -1,6 +1,8 @@
 ---
 
+debug: true
+
 user:
   role:
-#    Developer
+    Developer
     User
