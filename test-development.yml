@@ -5,7 +5,7 @@ spring:
     image:
       location: classpath:banner.gif
 
-debug: true
+debug: false
 
 user:
   role:
