@@ -9,6 +9,7 @@ debug: true
 user:
   tier:
     My-tier
+    My-Second-Tier
   role:
     Developer
     User
