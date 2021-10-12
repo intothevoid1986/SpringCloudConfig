@@ -8,8 +8,9 @@ debug: true
 
 user:
   tier:
-    My-Tier
+    Andrea
   role:
     Developer
     User
     Ciao
+    Pippo
